@@ -12,7 +12,7 @@ hamna.khalid@snhu.edu
 
 ### Submitted To:
 
-**Dr. Brian Holbert**
+**Professor Dr. Brian Holbert**
 
 b.holbert@snhu.edu 
 
