@@ -50,7 +50,7 @@ Included Artifacts:
 
 * CS330_Final_Project_Scene.zip
 * CS330_Final_Design_Decisions.docx
-* Final Scene Screenshot
+* CS330_Final_Evidence_Evaluation
 
 Together, these artifacts showcase both technical implementation and reflection on the development process used to construct a 3D environment.
 
